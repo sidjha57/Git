@@ -11,3 +11,4 @@
 6. Now you can push the repo to github - **git push -u origin main** > (u is a shortcut to remember which branch to add the repo).
 
 > trying in windows
+No need of this now switch back to git practice
