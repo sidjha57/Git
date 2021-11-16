@@ -6,4 +6,6 @@
 
 4. To check which remote reposistories are added - **git remote -v**
 
-5. Now you can push the repo to github - **git push -u origin main** > (u is a shortcut to remember which branch to add the repo).
+5. Specify the git branch - **git branch -M main**
+
+6. Now you can push the repo to github - **git push -u origin main** > (u is a shortcut to remember which branch to add the repo).
