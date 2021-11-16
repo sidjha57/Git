@@ -9,3 +9,5 @@
 5. Specify the git branch - **git branch -M main**
 
 6. Now you can push the repo to github - **git push -u origin main** > (u is a shortcut to remember which branch to add the repo).
+
+> trying in windows
